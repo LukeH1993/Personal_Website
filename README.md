@@ -5,7 +5,7 @@ To get the website up and running on your machine, you will need to clone this
 repository into your terminal. Once the repository has been successfully
 downloaded, you can run the **index.html** file in your web browser.
 ## Installation
-You will need to clone the respository and run **index.html**.
+You will need to clone the repository and run **index.html**.
 The web application will run on all good web browsers (e.g. Chrome).
 ## Deployment
 Currently, this web application is only available on Github, but there are
